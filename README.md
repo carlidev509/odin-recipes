@@ -1,1 +1,1 @@
-This is a little website about some recipes that anyone could try 
+This is a website in which I put some recipes that anyone could try
